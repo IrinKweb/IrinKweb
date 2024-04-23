@@ -1,6 +1,8 @@
 ### About me:
 Hello, My name is Irina, and I'm on my way to becoming a front-end developer! I enjoy programming and I can read and understand documentation properly. I like to do and complete tasks. I spend all my free time on programming. I am doing my best to become an expert in this field.
 
+### My training projects:
+[Cookies](https://irinkweb.github.io/cookies/)
 <!--
 **IrinKweb/IrinKweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
