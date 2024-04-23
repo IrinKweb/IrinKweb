@@ -3,6 +3,7 @@ Hello, My name is Irina, and I'm on my way to becoming a front-end developer! I 
 
 ### My training projects:
 - [Cookies](https://irinkweb.github.io/cookies/)
+- [Audio Player](https://irinkweb.github.io/audio-player/)
 <!--
 **IrinKweb/IrinKweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
